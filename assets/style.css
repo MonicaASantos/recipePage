@@ -1,0 +1,16 @@
+*{
+
+}
+header{
+    padding: 40px;
+    border: 2px;
+    justify-content: center;
+}
+
+img{
+     border-right: 2px;
+     justify-content: center;
+}
+ul{
+    text-align: center;
+}
